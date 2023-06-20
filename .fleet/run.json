@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "program": "/usr/bin/php",
+            "name": "run CI server",
+            "args": ["spark", "serve"],
+        },
+
+    ]
+}
